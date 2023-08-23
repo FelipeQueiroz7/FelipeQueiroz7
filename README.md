@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there 
+
+Me chamo Felipe, sou graduado em Engenharia de Produção pela Universidade Anhembi Morumbi e atualmente estou cursando Automação Industrial na Fatec e o curso de Desenvolvedor de Front-End no Senai.
+No campo profissional já atuei na área industrial como estagiário de engenharia e no setor de serviços como auxiliar administrativo.
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FelipeQueiroz7&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=false&theme=tokyonight)
 
 <!--
 **FelipeQueiroz7/FelipeQueiroz7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
